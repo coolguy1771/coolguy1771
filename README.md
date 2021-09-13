@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tyler Witlin</h1>
 <h3 align="center">A Student learning how to code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguy1771&label=Profile%20views&color=0e75b6&style=flat" alt="coolguy1771" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolguy1771" alt="coolguy1771" /></a> </p>
 
 - 🔭 I’m currently working on [k3s](https://github.com/coolguy1771/k3s)
 
