@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [k3s](https://github.com/coolguy1771/k3s)
 
-- 🌱 I’m currently learning **Java, Python, Ansible, Kubernetes**
+- 🌱 I’m currently learning Terraform, Kubernetes, and modern coding skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/coolguy1771](https://github.com/coolguy1771)
 
-- 💬 Ask me about **Hardware**
+- 💬 Ask me about Linux
 
 - 📫 How to reach me **45468117+coolguy1771@users.noreply.github.com**
 
