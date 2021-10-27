@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolguy1771&show_icons=true&locale=en&layout=compact" alt="coolguy1771" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolguy1771&show_icons=true&locale=en" alt="coolguy1771" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolguy1771&" alt="coolguy1771" /></p>
