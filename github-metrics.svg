@@ -2446,7 +2446,7 @@ fix(helm): update helm release loki to v2.9.1</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 17:43:05 (timezone America/Phoenix) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 18:56:39 (timezone America/Phoenix) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
