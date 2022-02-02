@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1242" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2822 Commits
+                            2827 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -183,7 +183,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    290k added, 137k removed
+                                    178k added, 59.6k removed
                                 </div>
                             </section>
                             <section>
@@ -2339,26 +2339,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">coolguy1771/home-ops</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fa136e</div>
-                                        <div class="message">fix(cert-manager): change secret ref</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">coolguy1771/home-ops</span>
                                     </div>
@@ -2366,14 +2346,16 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#880794b</div>
-                                        <div class="message">Merge pull request #868 from coolguy1771/renovate/ghcr.io-goauthentik-server-2022.1.x
+                                        <div class="sha">#c26829d</div>
+                                        <div class="message">Merge pull request #871 from coolguy1771/github-action/update-cloudflare-proxied-networks
 
-fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
+chore(github-action): update cloudflare proxied networks</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d51c2c7</div>
-                                        <div class="message">fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
+                                        <div class="sha">#b33c6dd</div>
+                                        <div class="message">chore(github-action): update cloudflare proxied networks
+
+Signed-off-by: GitHub &lt;noreply@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2387,7 +2369,7 @@ fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/ghcr.io-goauthentik-server-2022.1.x</span>
+                                        <span class="code">github-action/update-cloudflare-proxied-networks</span>
                                         in
                                         <span class="repo">coolguy1771/home-ops</span>
                                     </div>
@@ -2402,7 +2384,7 @@ fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#868 fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</span>
+                                        <span class="issue">#871 chore(github-action): update cloudflare proxied networks</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -2425,8 +2407,34 @@ fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39b7308</div>
-                                        <div class="message">fix(cert-manager): move issuers to apps directory</div>
+                                        <div class="sha">#1375270</div>
+                                        <div class="message">fix(github): update script name</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">coolguy1771/home-ops</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d667fa</div>
+                                        <div class="message">Merge pull request #869 from coolguy1771/renovate/quay.io-minio-minio-2022.x
+
+feat(container): update quay.io/minio/minio docker tag to release.2022-02-01t18-00-14z</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ada63e9</div>
+                                        <div class="message">feat(container): update quay.io/minio/minio docker tag to release.2022-02-01t18-00-14z</div>
                                     </div>
                                 </div>
                             </section>
@@ -2436,7 +2444,7 @@ fix(container): update ghcr.io/goauthentik/server docker tag to 2022.1.4</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 08:12:58 (timezone America/Phoenix) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 09:18:36 (timezone America/Phoenix) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
