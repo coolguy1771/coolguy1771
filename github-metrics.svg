@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1258" class="">
     <defs>
         <style/>
     </defs>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2845 Commits
+                            2849 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -183,7 +183,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    178k added, 59.5k removed
+                                    120k added, 20k removed
                                 </div>
                             </section>
                             <section>
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.7631454577877" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="312.7631454577877" y="0" width="45.49151310282598" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="358.25465856061373" y="0" width="33.95620275786399" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="392.2108613184777" y="0" width="20.77135804971405" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="412.9822193681918" y="0" width="18.05590175292259" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="431.0381211211144" y="0" width="13.033562684352127" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="444.0716838054665" y="0" width="9.081627979719926" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.1533117851864" y="0" width="6.846688214813653" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.76223115241" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="312.76223115241" y="0" width="45.49138011677671" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.25361126918665" y="0" width="33.956103493167234" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="392.2097147623539" y="0" width="20.77264205364869" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="412.9823568160026" y="0" width="18.05584896982359" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="431.0382057858262" y="0" width="13.033524583135197" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="444.0717303689614" y="0" width="9.081601431255311" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.15333180021673" y="0" width="6.846668199783284" height="8" fill="#a52a22"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2341,14 +2341,58 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">renovate/thanos-9.0.x</span>
-                                        in
-                                        <span class="repo">coolguy1771/home-ops</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">coolguy1771/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5c5708b</div>
+                                        <div class="message">change scripts path</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">coolguy1771/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#db140e4</div>
+                                        <div class="message">fix broken css links</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">coolguy1771/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb6652a</div>
+                                        <div class="message">remove extra stuff</div>
                                     </div>
                                 </div>
                             </section>
@@ -2367,14 +2411,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6c3206</div>
-                                        <div class="message">Merge pull request #874 from coolguy1771/renovate/thanos-9.0.x
-
-fix(helm): update helm release thanos to v9.0.3</div>
+                                        <div class="sha">#8bf89fc</div>
+                                        <div class="message">Merge pull request #873 from coolguy1771/renovate/nginx-9.7.x</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2f5e6f1</div>
-                                        <div class="message">fix(helm): update helm release thanos to v9.0.3</div>
+                                        <div class="sha">#83097a4</div>
+                                        <div class="message">fix(helm): update helm release nginx to v9.7.6</div>
                                     </div>
                                 </div>
                             </section>
@@ -2387,52 +2429,12 @@ fix(helm): update helm release thanos to v9.0.3</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#874 fix(helm): update helm release thanos to v9.0.3</span>
+                                        <span class="issue">#873 fix(helm): update helm release nginx to v9.7.6</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by lumiere-bot[bot] in <span class="repo">coolguy1771/home-ops</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">coolguy1771/home-ops</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc6d867</div>
-                                        <div class="message">fix(ci): decrease trivy sensitivity</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">coolguy1771/home-ops</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#51e0989</div>
-                                        <div class="message">fix(renovate): be more accurate on flux ignore paths</div>
-                                    </div>
+                                    <div>2 files changed <span class="code">++2 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2441,7 +2443,7 @@ fix(helm): update helm release thanos to v9.0.3</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Feb 2022, 10:15:38 (timezone America/Phoenix) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 11:15:28 (timezone America/Phoenix) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
