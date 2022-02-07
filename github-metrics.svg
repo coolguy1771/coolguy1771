@@ -2426,7 +2426,7 @@ fix(container): update ghcr.io/k8s-at-home/sonarr-develop docker tag to v3.0.6.1
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 01:15:38 (timezone America/Phoenix) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 02:13:16 (timezone America/Phoenix) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
