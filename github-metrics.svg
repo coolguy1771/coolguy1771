@@ -2441,7 +2441,7 @@ fix(helm): update helm release reloader to v0.0.105</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2022, 19:23:32 (timezone America/Phoenix) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 13 Feb 2022, 20:13:03 (timezone America/Phoenix) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
