@@ -2442,7 +2442,7 @@ fix(container): update helm values ghcr.io/k8s-at-home/sonarr-develop to v3.0.6.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 02:13:27 (timezone America/Phoenix) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 22 Feb 2022, 03:14:58 (timezone America/Phoenix) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
